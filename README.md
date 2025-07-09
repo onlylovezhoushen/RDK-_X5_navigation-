@@ -1,1 +1,4 @@
 # RDK-_X5_navigation-
+mycar_map_sever是保存地图文件夹
+mycar_localization是关于定位
+mycar_navigation是用于导航
